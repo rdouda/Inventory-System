@@ -12,6 +12,7 @@
 * User Interface
 * Multiplayer support
 
-![alt text](https://github.com/rdouda/Inventory-System/Demo/img1.png)
-![alt text](https://github.com/rdouda/Inventory-System/Demo/img2.png)
-![alt text](https://github.com/rdouda/Inventory-System/Demo/img3.png)
+![alt text](https://github.com/rdouda/Inventory-System/blob/main/Demo/img1.png)
+![alt text](https://github.com/rdouda/Inventory-System/blob/main/Demo/img2.png)
+![alt text](https://github.com/rdouda/Inventory-System/blob/main/Demo/img3.png)
+
