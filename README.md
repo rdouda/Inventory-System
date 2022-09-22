@@ -2,7 +2,7 @@
 ## Inventory System in Unreal Engine 5
 
 ### Current features
-* Detecting pickupable items with raytrace
+* Detecting pickable items with raytrace
 * Swapping 2 items
 * Picking up and dropping items
 * Saving and loading the game
